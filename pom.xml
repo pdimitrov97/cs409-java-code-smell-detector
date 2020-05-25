@@ -10,7 +10,7 @@
 	<version>1.0</version>
 
 	<name>java-code-smell-detector</name>
-	<url>https://github.com/pdimitrov97/cs409-java-code-smell-detector</url>
+	<url>https://github.com/pdimitrov97/java-code-smell-detector</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
