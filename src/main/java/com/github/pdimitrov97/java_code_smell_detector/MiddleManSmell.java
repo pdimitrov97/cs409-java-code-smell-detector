@@ -1,4 +1,4 @@
-package com.github.pdimitrov97.cs409_java_code_smell_detector;
+package com.github.pdimitrov97.java_code_smell_detector;
 import java.util.List;
 import com.github.javaparser.ast.body.ClassOrInterfaceDeclaration;
 import com.github.javaparser.ast.visitor.VoidVisitorAdapter;

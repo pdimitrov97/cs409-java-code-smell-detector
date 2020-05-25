@@ -6,10 +6,10 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.github.pdimitrov97</groupId>
-	<artifactId>cs409-java-code-smell-detector</artifactId>
+	<artifactId>java-code-smell-detector</artifactId>
 	<version>1.0</version>
 
-	<name>cs409-java-code-smell-detector</name>
+	<name>java-code-smell-detector</name>
 	<url>https://github.com/pdimitrov97/cs409-java-code-smell-detector</url>
 
 	<properties>
@@ -41,7 +41,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.github.pdimitrov97.cs409_java_code_smell_detector.SmellDetector</mainClass>
+							<mainClass>com.github.pdimitrov97.java_code_smell_detector.SmellDetector</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>

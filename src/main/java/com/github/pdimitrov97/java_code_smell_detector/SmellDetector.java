@@ -1,4 +1,4 @@
-package com.github.pdimitrov97.cs409_java_code_smell_detector;
+package com.github.pdimitrov97.java_code_smell_detector;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -49,7 +49,7 @@ public class SmellDetector
 
 	public static void main(String[] args) throws Exception
 	{
-		System.out.println("Welcome to Pavel Dimitrov's Code Smell Detector using JavaParser !");
+		System.out.println("Welcome to Pavel Dimitrov's Java Code Smell Detector using JavaParser !");
 		System.out.println("\nThe program can find:\n" + "- Long Parameter List\n" + "- Long Method (counting lines)\n" + "- Large Class (counting lines)\n" + "- Data class\n" + "- Message Chains\n" + "- Temporary Field\n" + "- Large Class (counting statements)\n" + "- Long Method (counting statements)\n" + "- Middle Man\n" + "- Refused Bequest\n");
 		System.out.println("Supported commands:\n" + "find_smells <java file | directory>\n" + "exit - to exit the program\n");
 
